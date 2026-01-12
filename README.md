@@ -1,7 +1,3 @@
-Nice 👍
-Here is a **clean, professional `README.md`** you can directly submit with your assignment.
-
----
 
 # 📝 Task Tracker Web Application
 
