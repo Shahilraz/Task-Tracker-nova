@@ -78,16 +78,3 @@ NIT Patna
 
 ---
 
-## 📄 License
-
-This project is created for learning and assignment purposes.
-
----
-
-If you want, I can also:
-
-* ✨ Make it more **interview-friendly**
-* ✨ Add screenshots section
-* ✨ Add backend explanation
-
-Just say the word 😊
